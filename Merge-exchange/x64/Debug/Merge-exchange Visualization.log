@@ -1,0 +1,6 @@
+﻿  Merge-exchange Visualization.cpp
+Merge-exchange Visualization.obj : error LNK2019: unresolved external symbol circle referenced in function "void __cdecl drawBox(int,int,int,int)" (?drawBox@@YAXHHHH@Z)
+Merge-exchange Visualization.obj : error LNK2019: unresolved external symbol setcolor referenced in function "void __cdecl drawBox(int,int,int,int)" (?drawBox@@YAXHHHH@Z)
+Merge-exchange Visualization.obj : error LNK2019: unresolved external symbol outtextxy referenced in function "void __cdecl writeText(int,int,int,int)" (?writeText@@YAXHHHH@Z)
+graphics.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Student Life\Second Year\Data Structures & Algorithms\End-of-term Project\Drawing\Merge-exchange Visualization\x64\Debug\Merge-exchange Visualization.exe : fatal error LNK1120: 3 unresolved externals
